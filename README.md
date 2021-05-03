@@ -10,7 +10,7 @@ Site available under https://pgs.digital Current Site under this Domain is pure 
     soon moving all websites including https://pgs.xyz to hostinger.com
 
 Done, moving pgs.digital soon too
-pgs.digital is temporarily available under https://test.philippe.pw
+pgs.digital is temporarily available under http://test.philippe.pw
 
 Im trying to get used to Github, thats why im doing Releases and etc. 
 
